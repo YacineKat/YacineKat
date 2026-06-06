@@ -9,6 +9,14 @@
 ╚═╝  ╚═══╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
+```
+╔█████╗  ███████╗
+██   ██║ ██
+██   ██║ ██
+██   ██║ ██
+╚█████╔╝ ██
+```
+
 # Yacine Katrouci
 
 **Full-Stack Software Developer · SaaS Builder · Founder @ Nebula**
