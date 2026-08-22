@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yacine__kay/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yacinekatrouci@gmail.com)
 [![Nebula](https://img.shields.io/badge/%E2%AC%A1_Nebula-7c3aed?style=for-the-badge&logoColor=white)](https://nebuladev.netlify.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yacinekat&style=for-the-badge&color=0e75b6)](https://github.com/yacinekat)
+[![Portfolio](https://komarev.com/ghpvc/?username=yacinekat&style=for-the-badge&color=0e75b6)](https://yacine-katrouci.netlify.app/)
 
 </div>
 
