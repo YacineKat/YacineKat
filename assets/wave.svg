@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120" width="1440" role="img" aria-label="animated waves">
+  <!-- back layer -->
+  <path fill="#0ea5e9" fill-opacity=".12">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0,64 C240,96 480,32 720,56 C960,80 1200,40 1440,64 L1440,120 L0,120 Z;
+              M0,64 C240,40 480,88 720,64 C960,44 1200,84 1440,64 L1440,120 L0,120 Z;
+              M0,64 C240,96 480,32 720,56 C960,80 1200,40 1440,64 L1440,120 L0,120 Z"/>
+  </path>
+  <!-- middle layer -->
+  <path fill="#a855f7" fill-opacity=".10">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,72 C320,100 560,44 800,66 C1040,88 1240,52 1440,72 L1440,120 L0,120 Z;
+              M0,72 C320,50 560,96 800,74 C1040,56 1240,90 1440,70 L1440,120 L0,120 Z;
+              M0,72 C320,100 560,44 800,66 C1040,88 1240,52 1440,72 L1440,120 L0,120 Z"/>
+  </path>
+  <!-- front layer -->
+  <path fill="#7c3aed" fill-opacity=".16">
+    <animate attributeName="d" dur="7.5s" repeatCount="indefinite"
+      values="M0,84 C360,108 620,62 880,80 C1120,98 1280,72 1440,84 L1440,120 L0,120 Z;
+              M0,84 C360,64 620,104 880,86 C1120,70 1280,96 1440,82 L1440,120 L0,120 Z;
+              M0,84 C360,108 620,62 880,80 C1120,98 1280,72 1440,84 L1440,120 L0,120 Z"/>
+  </path>
+</svg>
